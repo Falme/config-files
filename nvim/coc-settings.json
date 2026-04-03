@@ -1,0 +1,12 @@
+{
+	"languageserver": {
+        "godot": {
+            "host": "127.0.0.1",
+            "filetypes": ["gdscript"],
+            "port": 6005
+        }
+    },
+	//...
+	"coc.source.OmniSharp.enable" : true,
+	"coc.source.OmniSharp.triggerCharacters": ".",
+}
